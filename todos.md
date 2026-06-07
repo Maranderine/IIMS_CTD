@@ -9,9 +9,9 @@
 - [ ] gather information about glider, surrounding, recording time
 
 ## Week 1 — Data loading & first look
-- [ ] Load data, understand variable names/units/fill values, replace dummy loader in notebook
-- [ ] First raw plots: track map, T and S time series coloured by depth
-- [ ] QC: filter NaNs, impossible values, surface startup noise, obvious spikes
+- [x] Load data, understand variable names/units/fill values 
+- [x] First raw plots: track map, T and S time series coloured by depth
+- [x] QC: filter NaNs, impossible values, surface startup noise, obvious spikes
 - [ ] Dive segmentation: confirm dive_id assignment
 - [ ] Write 1-paragraph "Data" description for report while it's fresh
 - [ ] Compute SA, CT, σ₀ via gsw (SA_from_SP, CT_from_t, sigma0)
